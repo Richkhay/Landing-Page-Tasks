@@ -43,7 +43,7 @@ This document provides detailed instructions on how to provision a virtual machi
 3. *Connect to the EC2 Instance*  
    Once the instance is running, connect to it via SSH:
    bash
-   ssh -i <mykey-pair> ubuntu@<public-ip>
+   ssh -i "Linuxserver.pem" ec2-user@ec2-13-247-149-119.af-south-1.compute.amazonaws.com
    
 
 ---
@@ -74,7 +74,7 @@ This document provides detailed instructions on how to provision a virtual machi
 5. Test the setup:  
    Visit the IP address of your EC2 instance in a web browser:
    
-   http://<public-ip>
+   http://<13.247.149.119>
    
 
 ---
@@ -111,7 +111,7 @@ This document provides detailed instructions on how to provision a virtual machi
 Once the web server is running and the HTML page is deployed, you can view the landing page by visiting:
 
 
-http://<public-ip>
+http://<13.247.149.119>
 
 
 ---
