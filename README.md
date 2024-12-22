@@ -127,5 +127,5 @@ http://13.247.149.119/
 
 ## Screenshot
 
-[Screensot of Landing Page](Images/Landing-page-pictures.png)
+![Screensot of Landing Page](Images/Landing-page-pictures.png)
 
