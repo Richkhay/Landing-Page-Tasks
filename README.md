@@ -74,7 +74,7 @@ This document provides detailed instructions on how to provision a virtual machi
 5. Test the setup:  
    Visit the IP address of your EC2 instance in a web browser:
    
-   http://<13.247.149.119>
+   http://13.247.149.119/
    
 
 ---
@@ -111,7 +111,7 @@ This document provides detailed instructions on how to provision a virtual machi
 Once the web server is running and the HTML page is deployed, you can view the landing page by visiting:
 
 
-http://<13.247.149.119>
+http://13.247.149.119/
 
 
 ---
@@ -127,5 +127,5 @@ http://<13.247.149.119>
 
 ## Screenshots
 
-(Image/Landing-page-picture.png)
+![Screensot of Landing Page](Image/Landing-page-picture.png)
 
