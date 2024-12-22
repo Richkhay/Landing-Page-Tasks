@@ -125,7 +125,7 @@ http://13.247.149.119/
 
 ---
 
-## Screenshot
+## Screenshots
 
 [Screensot of Landing Page](https://github.com/Richkhay/Landing-Page-Tasks/blob/a8613c7585b93586d1c4574028a6a81e08a82cb2/Landing-page-picture-me.png.png)
 
